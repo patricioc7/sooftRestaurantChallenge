@@ -1,6 +1,6 @@
 # Sooft Restaurant Challenge
 
-
+Requiere NodeJs v14.7.0 y Yarn
 ## Quick start
 #### Para instalar dependencias
 ```javascript
